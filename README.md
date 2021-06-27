@@ -2,7 +2,7 @@ Flask Api to Calculate Total Cost
 
 The flask server can be run using the script runserver.sh
 
-the api default path in local is http://127.0.0.1:5000/
+The api default path in local is http://127.0.0.1:5000/
 Only POST method is used to prevent entry from crawlers or from browser.
 
 There is a validation for the keys in API as 'distance' and 'order_items' are mandatory.
